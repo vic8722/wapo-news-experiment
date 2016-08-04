@@ -9,8 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "agenda": "^0.8.1",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
     "mongodb": "^2.2.4",
+    "mongoose": "^4.5.7",
+    "node-schedule": "^1.1.1",
     "request": "^2.73.0",
+    "sha1": "^1.1.1",
     "xml2js": "^0.4.17"
   }
 }
